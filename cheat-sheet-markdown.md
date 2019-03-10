@@ -30,9 +30,9 @@ ___
 > This is a quote
 
 <!-- Links -->
-[Lucas's Github Profile](github.com/lucasfber "My github profile")
+[Lucas's Github Profile](https://www.github.com/lucasfber "My github profile")
 
-[Google Homepage](google.com "Mostrando o title")
+[Google Homepage](https://www.google.com "Mostrando o title")
 
 <!-- UL -->
 
